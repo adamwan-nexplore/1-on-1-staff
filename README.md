@@ -1,4 +1,4 @@
-# 1-on-1-kevinkch
+# 1-on-1-adam
 
 This is the regular set up for [Adam](https://github.com/adamwan-nexplore) & [Adam](https://github.com/adamwan-nexplore) for the use of two-way communications.
 
